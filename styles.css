@@ -1,12 +1,34 @@
 body {
 	background-color: rgb(95, 152, 119);
 }
+
+#container {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 12px 12px 12px rgb(95, 106, 106);
+	text-align: center;
+}
 h1 {
   color: black;
   margin-left: 0px;
 	font-size: 500%;
 	text-align: center;
+	font-family:monospace;
 }
 h2 {
-	font-size: 200%
+	font-size: 200%;
+	text-align: center;
+	font-family: lucida console;
+}
+
+
+
 }
